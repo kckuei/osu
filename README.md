@@ -1,0 +1,2 @@
+# osu
+osu-cs-courses
